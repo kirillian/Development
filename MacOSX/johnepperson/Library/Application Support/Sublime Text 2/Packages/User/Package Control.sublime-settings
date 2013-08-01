@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alternative Autocompletion",
+		"Autocomplete Javascript with Method Signature",
+		"BeautifyRuby",
+		"Cucumber",
+		"Dark Pastel Color Scheme",
+		"DetectSyntax",
+		"Emmet",
+		"ERB Insert and Toggle Commands",
+		"Format SQL",
+		"Git",
+		"JSHint Gutter",
+		"Liquid",
+		"Package Control",
+		"RSpec (snippets and syntax)",
+		"Ruby Markers",
+		"RubyTest",
+		"SideBarEnhancements",
+		"Simple Rails Navigator",
+		"Solarized Color Scheme",
+		"Theme - Phoenix",
+		"Theme - Pseudo OSX"
+	]
+}

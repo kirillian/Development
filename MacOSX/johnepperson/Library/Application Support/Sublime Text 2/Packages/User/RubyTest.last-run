@@ -1,0 +1,4 @@
+{
+	"last_test_run": "rspec spec/models/forecast_window_spec.rb -l14",
+	"last_test_working_dir": "/Users/johnepperson/Development/git_projects/infinity_erp"
+}
